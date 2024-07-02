@@ -3,7 +3,7 @@ This project aims to implement a comprehensive system that monitors bus usage by
 ## functioning
 When the students or faculties scan their RFID ID cards at the scanner the details are stored in the memory card.
 To access the stored information, you have to connect to the WIFI network of the RFID module and you can use any web browser and type in the IP address of the devise which will lead you to a webpage where you have to enter the user id and password to gain access, then you can enter the month which will download the data as a CSV file to your device. 
-To write new RFID cards you have to place the RFID card on the scanner and use this ./rfid_write_personal_data code to write the required information to the card
+To write new RFID cards you have to place the RFID card on the scanner and use this [Link to example.txt](/rfid_write_personal_data/) code to write the required information to the card
 
 ### components used
 * ESP 8266 12 E microcontroller
