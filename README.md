@@ -12,7 +12,7 @@ To write new RFID cards you have to place the RFID card on the scanner and use [
 * Micro SD Card Reader Module
 * Buzzer
 * Resistors
-### Other meterialsase_de
+### Other marerials
 - [Fusion 360 3D model for case](3D_case_design)
 - [Circuit diagram](diagrams_&_circuit/CIRCUIT_diagram.pdf)
 - [PCB design](diagrams_&_circuit/pcb_design.pdf)
