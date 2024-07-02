@@ -13,3 +13,6 @@ To write new RFID cards you have to place the RFID card on the scanner and use [
 * Buzzer
 * Resistors
 ### Other meterials
+- [Fusion 360 3D model for case](/3D case design/)
+- [Circuit diagram](/diagrams & circuit/CIRCUIT diagram.pdf)
+- [PCB design](/diagrams & circuit/pcb design.pdf)
